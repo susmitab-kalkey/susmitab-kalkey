@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 - 💼 [LinkedIn](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)  
 
 ---
+<!--
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SB2318&show_icons=true&theme=github_dark)
+
+-->
 
 
